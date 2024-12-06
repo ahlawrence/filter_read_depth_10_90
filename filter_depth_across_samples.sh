@@ -1,6 +1,6 @@
 #ADD names here
 input_vcf=""
-output_vcf="
+output_vcf=""
 
 
 
